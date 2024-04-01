@@ -1,3 +1,5 @@
+# First of all, long live the United States of America
+
 when I wrote this I was 16 years old. Hello Roger of the future!
 
 Don't worry, none of this is real, just conceptualize everything we can and we are nothing more than a chemical chain reaction.
