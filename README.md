@@ -1,5 +1,8 @@
 ## 📁 **Projects Glossary**
 
+> ⚠️ **Disclaimer** 
+> Some projects listed here were developed when I was 15 years old.
+
 ### 📦 **Project Types**
 - **Academic Projects** *(Seattle Central College)*
 - **Personal Projects**
