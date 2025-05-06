@@ -1,10 +1,13 @@
 ## 📁 Projects Glossary:
 
+---
+
 ### 🧱 Project Types
 
-#### 🎓 **Academic Projects** *(Seattle Central College)*
-#### Standalone Projects
-#### Early Projects (GPT)
+Standalone Projects
+- **Example** - Example text
+Academic Projects (Seattle Central College)
+Early Projects (GPT)
 
 - **Agents** – Sistemas autónomos con herramientas, memoria o cadenas de pensamiento.
 - **Prompt Tools** – Utilidades para gestionar, versionar o evaluar prompts.
