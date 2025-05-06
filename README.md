@@ -1,6 +1,6 @@
 ## 📁 **Projects Glossary**
 
-### 🧱 **Project Types**
+### 📦 **Project Types**
 - **Personal Projects**
 - **AI & Machine Learning**
 - **Web Development**
@@ -8,8 +8,6 @@
 - **Utilities & Tools**
 
 ---
-
-### 📦 **Projects List**
 
 #### 🧱 **Personal Projects**
 - 🔗 [**rogerros.com**](https://github.com/RogerRos/rogerros.com-main-menu)  
