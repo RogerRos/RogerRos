@@ -2,9 +2,9 @@
 
 ### 🧱 Project Types
 
-Standalone Projects
-Academic Projects (Seattle Central College)
-Early Projects (GPT)
+• **Standalone Projects**  
+• **Academic Projects** *(Seattle Central College)*  
+• **Early Projects (GPT)**
 
 ---
 
