@@ -1,6 +1,6 @@
 ## 📁 **Projects Glossary**
 
-> ⚠️ **Disclaimer** 
+> ⚠️ **Disclaimer:** 
 > Some projects listed here were developed when I was 15 years old.
 
 ### 📦 **Project Types**
