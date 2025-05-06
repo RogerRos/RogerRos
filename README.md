@@ -1,43 +1,52 @@
 ## 📁 **Projects Glossary**
 
 ### 🧱 **Project Types**
-- **Standalone Projects**  
-- **Academic Projects** _(Seattle Central College)_  
-- **Early Projects (GPT Experiments)_
+- **Personal Projects**
+- **AI & Machine Learning**
+- **Web Development**
+- **Games & Simulations**
+- **Utilities & Tools**
 
 ---
 
 ### 📦 **Projects List**
 
----
+#### 🧱 **Personal Projects**
+- 🔗 [**rogerros.com**](https://github.com/RogerRos/rogerros.com-main-menu)  
+  Sitio web personal con portafolio y enlaces clave.
 
-#### 🧱 **Standalone Projects**
-- 🔗 [**rogerros.com**](https://rogerros.com)  
-  Sitio personal con portafolio y enlaces clave.
-
----
-
-#### 🎓 **Academic Projects** _(Seattle Central College)_
-- 🐍 [**data-structures-python**](#)  
-  Estructuras básicas: pilas, colas y árboles.
-
-- 🌐 [**node-rest-api-assignment**](#)  
-  API RESTful usando Express y Node.js.
-
-- 🎨 [**web-design-css-grid**](#)  
-  Diseño responsivo con CSS Grid y Flexbox.
-
-- 🤝 [**git-collaboration-lab**](#)  
-  Flujo de trabajo colaborativo con GitHub.
+- 📝 [**roger-s-reflections**](https://github.com/RogerRos/roger-s-reflections)  
+  Blog donde comparto mis reflexiones personales.
 
 ---
 
-#### 🧪 **Early Projects (GPT Experiments)**
-- 🧪 [**gpt-ui-experiment**](#)  
-  Interfaz experimental para agentes GPT.
+#### 🤖 **AI & Machine Learning**
+- 🧠 [**CNN-public**](https://github.com/RogerRos/CNN-public)  
+  Red neuronal convolucional entrenada con 64,000 imágenes, alcanzando un 98% de precisión.
 
-- 🔗 [**agent-chain-poc**](#)  
-  Prueba de concepto: encadenamiento de agentes autónomos.
+- 🏓 [**Too-powerful-AI**](https://github.com/RogerRos/Too-powerful-AI)  
+  Proyecto de entrenamiento de IA para jugar al ping-pong; requiere alta capacidad computacional.
 
-- 🧠 [**gpt-mindmap-agent**](#)  
-  Agente para generar mapas mentales a partir de prompts.
+---
+
+#### 🌐 **Web Development**
+- 🧰 [**rogerros.com-main-menu**](https://github.com/RogerRos/rogerros.com-main-menu)  
+  Menú principal del sitio web personal.
+
+---
+
+#### 🎮 **Games & Simulations**
+- 🎮 [**rosgame**](https://github.com/RogerRos/rosgame)  
+  Juego desarrollado en Python.
+
+- 🎵 [**subliminal_RHCA**](https://github.com/RogerRos/subliminal_RHCA)  
+  Juego con elementos musicales y gráficos personalizados.
+
+---
+
+#### 🛠️ **Utilities & Tools**
+- 🧪 [**RHCA**](https://github.com/RogerRos/RHCA)  
+  Herramienta para automatizar tareas relacionadas con repositorios.
+
+- 🔄 [**rosconversor**](https://github.com/RogerRos/rosconversor)  
+  Conversor de datos específico para proyectos personales.
