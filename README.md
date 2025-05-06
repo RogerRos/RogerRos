@@ -16,6 +16,7 @@
 
 #### **Personal Projects**
 - [**C++ Desktop Calculator**](https://github.com/RogerRos/desktop_calculator)
+- [**PCB HTML Menu**] (https://github.com/RogerRos/PCB-html-menu/tree/main)
 
 ---
 
@@ -25,7 +26,7 @@
 ---
 
 #### **Standalone Projects**
-- 🔗 [**rogerros.com**](https://github.com/RogerRos/rogerros.com-main-menu)
+- [**rogerros.com** 🔗](https://github.com/RogerRos/rogerros.com) — [**Visit site** 🌐](https://rogerros.com)
 
 ---
 
