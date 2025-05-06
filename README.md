@@ -15,10 +15,12 @@
 ---
 
 #### **Personal Projects**
+- [**C++ Desktop Calculator**](https://github.com/RogerRos/desktop_calculator)
 
 ---
 
 #### **AI & Machine Learning**
+- [**CNN CARS/MOTORCYCLES**](https://github.com/RogerRos/CNN-now-public/tree/main/Cotxes-Motos)
 
 ---
 
@@ -33,3 +35,9 @@
 ---
 
 #### **Early Projects (GPT)**
+- [**ROS Engine**](https://github.com/RogerRos/ROS-engine)
+- [**ROS Conversor**](https://github.com/RogerRos/rosconversor)
+- [**File Manager**](https://github.com/RogerRos/optifilemanager/tree/main)
+- [**Ping Pong AI**](https://github.com/RogerRos/IA-pongia/tree/main/trained)
+- [**Gear HTML Animation**](https://github.com/RogerRos/gear-html-animation)
+- [**Igualada Sat Web Page**](https://github.com/RogerRos/igualadasat)
