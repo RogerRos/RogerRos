@@ -28,8 +28,7 @@
 ---
 
 #### **Games & Simulations**
-- 🔗 [**Subliminal**]([https://github.com/RogerRos/rogerros.com-main-menu](https://github.com/RogerRos/subliminal-ultra-deluxe-edition
-))
+- [**Subliminal**](https://github.com/RogerRos/subliminal-ultra-deluxe-edition)
 
 ---
 
