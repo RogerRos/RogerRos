@@ -15,7 +15,8 @@
 ---
 
 #### **Academic Projects** *(Seattle Central College)*
-
+- [**CSC143**](https://github.com/RogerRos/CSC143)
+  
 ---
 
 #### **Personal Projects**
