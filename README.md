@@ -9,6 +9,7 @@
 - **AI & Machine Learning**
 - **Standalone Projects**
 - **Games & Simulations**
+- **ArchLunux Config**
 - **Early Projects (GPT)**
 
 ---
@@ -35,6 +36,11 @@
 
 #### **Games & Simulations**
 - [**Subliminal**](https://github.com/RogerRos/subliminal-ultra-deluxe-edition)
+
+---
+
+#### **ArchLunux Config**
+- [**archlinux-profile**](https://github.com/RogerRos/archlinux-profile)
 
 ---
 
